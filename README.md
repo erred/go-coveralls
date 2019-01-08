@@ -18,7 +18,8 @@ Endpoints
 
 Add Repo
 
-Submit Job
+# Not implemented
+# Submit Job
 
 
 Latest build
