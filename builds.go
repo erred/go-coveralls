@@ -37,7 +37,7 @@ type Build struct {
 	URL            string    `json:"url"`
 	CommitMsg      string    `json:"commit_message"`
 	Branch         string    `json:"branch"`
-	CommitterName  string    `json:"committer_email"`
+	CommitterName  string    `json:"committer_name"`
 	CommitterEmail string    `json:"committer_email"`
 	CommitSHA      string    `json:"commit_sha"`
 	RepoName       string    `json:"repo_name"`
